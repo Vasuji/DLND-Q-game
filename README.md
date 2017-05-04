@@ -1,13 +1,13 @@
 
 ### References
 
-#1. https://github.com/evizitei/udacity-smart-cab/blob/master/smartcab/agent.py
-#2. http://www.ritchieng.com/machine-learning-proj-smart-cab/
-#3. https://github.com/SamWhitehill/SmartCab/blob/master/smartcab/agent.py
-#4. https://github.com/sureshsagir/Smart-Cab
-#5. https://github.com/esppk/SmartCab/blob/master/smartcab/agent.py
-#6. https://github.com/mzhigarev/SmartCab/blob/master/agent.py
-#7. https://github.com/hfrommane/SmartCab/blob/master/smartcab/agent.py
+1. https://github.com/evizitei/udacity-smart-cab/blob/master/smartcab/agent.py
+2. http://www.ritchieng.com/machine-learning-proj-smart-cab/
+3. https://github.com/SamWhitehill/SmartCab/blob/master/smartcab/agent.py
+4. https://github.com/sureshsagir/Smart-Cab
+5. https://github.com/esppk/SmartCab/blob/master/smartcab/agent.py
+6. https://github.com/mzhigarev/SmartCab/blob/master/agent.py
+7. https://github.com/hfrommane/SmartCab/blob/master/smartcab/agent.py
 
 
 
